@@ -14,4 +14,4 @@ npm install -g testcafe
 
 ## Run the test
 
-$ testcafe chrome qdp.test.ts
+`$ testcafe chrome qdp.test.ts`
